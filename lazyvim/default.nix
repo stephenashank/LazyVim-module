@@ -357,7 +357,6 @@ in
                 javascript
                 jsdoc
                 json
-                jsonc
                 lua
                 luadoc
                 luap
